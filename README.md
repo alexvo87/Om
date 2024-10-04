@@ -1,1 +1,1 @@
-# Android base project
+# Note
